@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "35029c8750f5db6eabc54fdc453586fb1a2fcdfc3aa77c6a649381bf96a5e018"
+build_start_time: [1690357085, 356328000]
+build_end_time: [1690357085, 553994000]
+inputs:
+  "/Users/navaid/Flutter_Projects_udemy/expense_tracker/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1690357059, 386101118]
+  "/Users/navaid/Flutter_Projects_udemy/expense_tracker/macos/Runner/AppDelegate.swift": !private [1684318744, 0]
+  "/Users/navaid/Flutter_Projects_udemy/expense_tracker/macos/Runner/MainFlutterWindow.swift": !private [1684318744, 0]
